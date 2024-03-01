@@ -9,3 +9,5 @@ elif unit == "F":
     print(f"The temperature in Celsius is: {temp}°C")
 else:
     print(f"{unit} is an invalid unit of measurement")
+
+confirmation = input("Press ENTER to exit")
